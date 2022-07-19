@@ -1,0 +1,28 @@
+.search-movie__input{
+  outline: none;
+  padding-bottom: 10px;
+  width: 100%;
+}
+.search-movie__button{
+  right: 0;
+}
+.main{
+  min-height: calc(100vh - 40.641px - 56px - 32px)
+}
+.movie{
+  height: 450;
+  width: 200px;
+}
+.movie-img__box{
+  height: 260px;
+}
+.movie-img__box img{
+  max-height: 261px;
+}
+.preloader{
+  width: 100px;
+  height: 100px;
+}
+/* .movie-box{
+  width: ;
+} */
